@@ -1,0 +1,3 @@
+com\digitalinnovationone\SpringbootConfig\SpringbootConfigApplication.class
+com\digitalinnovationone\SpringbootConfig\config\DBConfiguration.class
+com\digitalinnovationone\SpringbootConfig\AppController.class
